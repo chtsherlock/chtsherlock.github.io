@@ -1,0 +1,24 @@
+# Site settings
+title: "Ux Design Office"
+email: "sherlock@cht.com.tw"
+description: > # "The Life is play and play."
+baseurl:  # the subpath of your site, e.g. /blog/
+url:  # the base hostname & protocol for your site
+
+# User setting
+owner: Ux Design Office
+email: wudywu@cht.com.tw
+facebook_username: twudo
+twitter_username:
+github_username: chtudo
+address:
+  - line: "100中正區信義路一段21-3號806室"
+  # Feel free to add more lines here 
+telephone: 886-223445640
+copyright:
+
+# API settings
+google_api_key: "AIzaSyDODaztXRMCex3Iga8mQifwXITWRWtH38k"
+
+# Build settings
+markdown: kramdown
